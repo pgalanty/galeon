@@ -1,0 +1,5 @@
+pl/pgalanty/calculator/domains/CalculatorDTO.class
+pl/pgalanty/calculator/domains/CalculatorService.class
+pl/pgalanty/calculator/CalculatorApplication.class
+pl/pgalanty/calculator/domains/CalculatorController.class
+pl/pgalanty/calculator/config/SecurityConfig.class
